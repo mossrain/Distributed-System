@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dblp_q1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dblp_q1_jar</output-path>
+    <root id="archive" name="dblp_q1.jar">
+      <element id="module-output" name="dblp_q1" />
+    </root>
+  </artifact>
+</component>

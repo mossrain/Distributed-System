@@ -1,0 +1,74 @@
+<test>
+<article mdate="2020-06-25" key="tr/meltdown/s18" publtype="informal">
+<author>Paul Kocher</author>
+<author>Daniel Genkin</author>
+<author>Daniel Gruss</author>
+<author>Werner Haas 0004</author>
+<author>Mike Hamburg</author>
+<author>Yuyuan Putao</author>
+<author>Stefan Mangard</author>
+<author>Thomas Prescher 0002</author>
+<author>Michael Schwarz 0001</author>
+<author>Yuval Yarom</author>
+<title>Spectre Attacks: Exploiting Speculative Execution.</title>
+<journal>meltdownattack.com</journal>
+<year>2018</year>
+<ee type="oa">https://spectreattack.com/spectre.pdf</ee>
+</article>
+<article mdate="2020-06-25" key="tr/meltdown/m18" publtype="informal">
+<author>Moritz Lipp</author>
+<author>Michael Schwarz 0001</author>
+<author>Daniel Gruss</author>
+<author>Thomas Prescher 0002</author>
+<author>Werner Haas 0004</author>
+<author>Stefan Mangard</author>
+<author>Paul Kocher</author>
+<author>Daniel Genkin</author>
+<author>Yuval Yarom</author>
+<author>Mike Hamburg</author>
+<title>Meltdown</title>
+<journal>meltdownattack.com</journal>
+<ee type="oa">https://meltdownattack.com/meltdown.pdf</ee>
+<year>2018</year>
+</article>
+<book mdate="2021-07-31" key="tr/acm/CS2013">
+<title>Computer Science Curricula 2013</title>
+<publisher>ACM Press and IEEE Computer Society Press</publisher>
+<author>Paul Kocher</author>
+<year>2013</year>
+<ee>https://doi.org/10.1145/2534860</ee>
+<ee>https://www.wikidata.org/entity/Q107021707</ee>
+<isbn>978-1-4503-2309-3</isbn>
+</book><article mdate="2019-10-25" key="tr/gte/TR-0263-08-94-165" publtype="informal">
+<author>Frank Manola</author>
+<title>An Evaluation of Object-Oriented DBMS Developments: 1994 Edition.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0263-08-94-165</volume>
+<month>August</month>
+<year>1994</year>
+<url>db/journals/gtelab/index.html#TR-0263-08-94-165</url>
+</article><www mdate="2022-10-25" key="tr/gte/TR-0222-10-92-165" publtype="informal">
+<author>Michael L. Brodie</author>
+<author>Michael Stonebraker</author>
+<author>Paul Kocher</author>
+<title>DARWIN: On the Incremental Migration of Legacy Information Systems</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0222-10-92-165</volume>
+<month>March</month>
+<year>1993</year>
+<url>db/journals/gtelab/index.html#TR-0222-10-92-165</url>
+<note>This report is also available as a Technical Memorandum of Electronics Research Laboratory, College of Engineering, University of California, Berkeley.</note>
+</www>
+<book mdate="2019-10-25" key="tr/gte/TR-0222-10-92-165" publtype="informal">
+<author>Michael L. Brodie</author>
+<author>Michael Stonebraker</author>
+<author>Paul Kocher</author>
+<title>DARWIN: On the Incremental Migration of Legacy Information Systems</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0222-10-92-165</volume>
+<month>March</month>
+<year>1993</year>
+<url>db/journals/gtelab/index.html#TR-0222-10-92-165</url>
+<note>This report is also available as a Technical Memorandum of Electronics Research Laboratory, College of Engineering, University of California, Berkeley.</note>
+</book>
+</test>
